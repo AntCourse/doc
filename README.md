@@ -16,9 +16,9 @@
 * | :one:用户签到 | /user/[userSignIn](./interface/userSignIn.md) 
 课程 | | | | |
 * | :one:根课程列表 | /cour/[getCourList](./interface/getCourList.md) 
-* | :one:子课程列表 | /cour/[getSubList](./interface/getSubList.md) 
 * | :one:知识点 | /cour/[getPointList](./interface/getPointList.md) 
 * | :one:知识点对应的视频 | /cour/[getVideoByPoi](./interface/getVideoByPoi.md) 
-* | :one:信息修改 | /cour/[getVideoBySub](./interface/getVideoBySub.md)
 * | :one:课程信息更新 | /cour/[updVideoInfo](./interface/updVideoInfo.md) 
+* | :one:子课程列表 | /cour/[getSubList](./interface/getSubList.md) 
 * | :one:答案验证 | /cour/[checkAnswer](./interface/checkAnswer.md) 
+* | :one:信息修改 | /cour/[getVideoBySub](./interface/getVideoBySub.md)
