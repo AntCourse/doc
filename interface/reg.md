@@ -15,10 +15,35 @@
 ###返回结果示例
 
 ```javascript
-  {
-    "message":"成功",
-    "apicode":10000
-  }
+ {
+    "message": "成功",
+    "user": {
+        "id": 108,
+        "name": null,
+        "sex": null,
+        "age": 0,
+        "phone": "18911345831",
+        "passwd": "123123",
+        "email": null,
+        "birthday": null,
+        "qq": null,
+        "regtime": 1442751441694,
+        "logintime": null,
+        "avator": null,
+        "sign": null,
+        "level": null,
+        "honor": null,
+        "learntime": null,
+        "status": null,
+        "examtype": null,
+        "yzm": null,
+        "isActive": 1,
+        "realName": null,
+        "infoPerfectLev": null,
+        "userSession": "9B35F6A68C2C615BD5FEE720DFF52C2B"
+    },
+    "apicode": 10000
+}
 
 
 
