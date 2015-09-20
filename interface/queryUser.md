@@ -16,36 +16,37 @@
 
 ```javascript
   {
-	"message": "成功",
-	"data": {
-		"message": "成功",
-		"data": {
-			"id": 102,
-			"name": "丢丢大哲哲",
-			"sex": "9",
-			"age": 22,
-			"phone": "15311450124",
-			"passwd": "echo1",
-			"email": null,
-			"birthday": 1450195200000,
-			"qq": "747819855",
-			"regtime": 1438685526000,
-			"logintime": 1438745680000,
-			"avator": null,
-			"sign": null,
-			"level": null,
-			"honor": null,
-			"learntime": null,
-			"status": null,
-			"examtype": null,
-			"yzm": null,
-			"isActive": 0,
-			"realName": null,
-			"infoPerfectLev": null
-		},
-		"apicode": 10000
-	},
-	"apicode": 10000
+    "message": "成功",
+    "data": {
+        "message": "成功",
+        "data": {
+            "id": 107,
+            "name": null,
+            "sex": null,
+            "age": 0,
+            "phone": "18911345831",
+            "passwd": "123123",
+            "email": null,
+            "birthday": null,
+            "qq": null,
+            "regtime": 1442749553000,
+            "logintime": null,
+            "avator": null,
+            "sign": null,
+            "level": null,
+            "honor": null,
+            "learntime": null,
+            "status": null,
+            "examtype": null,
+            "yzm": null,
+            "isActive": 1,
+            "realName": null,
+            "infoPerfectLev": null,
+            "userSession": "3AE499374352A801871EB3B53E721EFB"
+        },
+        "apicode": 10000
+    },
+    "apicode": 10000
 }
 
 
