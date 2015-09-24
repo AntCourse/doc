@@ -15,7 +15,8 @@
 * | :one:修改密码 | /user/[modifypasswd](./interface/modifypasswd.md) 
 * | :one:用户签到 | /user/[userSignIn](./interface/userSignIn.md) 
 课程 | | | | |
-* | :one:课程列表 | /cour/[getCourList](./interface/getCourList.md) 
+* | :one:课程列表-两级 | /cour/[getCourList](./interface/getCourList.md) 
+* | :one:课程列表-三级 | /cour/[getCourListSpe](./interface/getCourListSpe.md) 
 * | :one:知识点列表 | /cour/[getPointList](./interface/getPointList.md) 
 * | :one:知识点对应的视频 | /cour/[getVideoByPoi](./interface/getVideoByPoi.md) 
 * | :one:视频信息更新 | /cour/[updVideoInfo](./interface/updVideoInfo.md) 
