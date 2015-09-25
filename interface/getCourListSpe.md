@@ -19,6 +19,7 @@
   "result": {
     "courId": 5,
     "courName": "数学课程1",
+    "profile":"数学课程1",
     "children": [
       {
         "childId": 7,
