@@ -2,7 +2,7 @@
  相关信息 | 内容
  ------ | ------
  访问类型 | POST
- 访问地址 | /cour/getCourList
+ 访问地址 | /cour/getCourListSpe
 
 ###请求参数
 
