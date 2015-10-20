@@ -16,10 +16,33 @@
 
 ```javascript
   {
-  	"message":"成功",
-	 "data":"true",
-  	"apicode":10000
-  }
+    "message": "成功",
+    "data": {
+        "id": 0,
+        "name": null,
+        "sex": null,
+        "age": 0,
+        "phone": "15311450124",
+        "passwd": "123123",
+        "email": null,
+        "birthday": null,
+        "qq": null,
+        "regtime": null,
+        "logintime": 1445257362174,
+        "avator": null,
+        "sign": null,
+        "level": null,
+        "honor": null,
+        "learntime": null,
+        "status": null,
+        "examtype": null,
+        "yzm": null,
+        "isActive": 0,
+        "realName": null,
+        "infoPerfectLev": null
+    },
+    "apicode": 10000
+}
 
 
 
