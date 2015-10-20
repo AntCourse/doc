@@ -17,7 +17,7 @@
 ```javascript
   {
   	"message":"成功",
-	 "data":"true",
+	 "data":"true",//false:数据库已有此手机号;true:数据库没有此手机号
   	"apicode":10000
   }
 
