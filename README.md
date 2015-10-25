@@ -5,15 +5,14 @@
 ------ | ------ | ------ | -------- | ------- | ------- 
 用户 | | | | |
 * | :one:用户登陆 | /user/[login](./interface/login.md) 
+* | :one:登出 |  /user/[loginOut](./interface/loginOut.md) 
 * | :one:用户注册 | /user/[reg](./interface/reg.md) 
 * | :one:获取短信验证码 | /user/[getYzmByPhone](./interface/getYzmByPhone.md) 
-* | :one:信息修改 | /user/[update](./interface/update.md)
-* | :one:用户查询 | /user/[queryUser](./interface/queryUser.md) 
-* | :one:邮箱获取验证码 | /user/[getYzmByEmail](./interface/getYzmByEmail.md) 
-* | :one:查询手机验证码是否过期 | /user/[phoneIsInvalid](./interface/phoneIsInvalid.md) 
-* | :one:用户唯一性验证 | /user/[userUnique](./interface/userUnique.md) 
+* | :one:根据id修改用户信息 | /user/[update](./interface/update.md)
+* | :one:根据id查询用户的信息 | /user/[queryUser](./interface/queryUser.md)
 * | :one:修改密码 | /user/[modifypasswd](./interface/modifypasswd.md) 
 * | :one:用户签到 | /user/[userSignIn](./interface/userSignIn.md) 
+* | :one:上传图片 | /user/[fileUpload](./interface/fileUpload.md) 
 课程 | | | | |
 * | :one:课程列表-两级 | /cour/[getCourList](./interface/getCourList.md) 
 * | :one:课程列表-三级 | /cour/[getCourListSpe](./interface/getCourListSpe.md) 
