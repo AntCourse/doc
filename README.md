@@ -24,3 +24,4 @@
 * | :one:答案验证 | /cour/[checkAnswer](./interface/checkAnswer.md) 
 * | :one:获取测试题的相关视频 | /cour/[getVideoBySub](./interface/getVideoBySub.md)
 * | :one:获取推荐视频 | /cour/[getRecommendVideo](./interface/getRecommendVideo.md)
+* | :one:知识点学习记录 | /cour/[setPointLog](./interface/setPointLog.md)
