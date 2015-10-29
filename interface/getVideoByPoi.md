@@ -24,6 +24,7 @@
     "timeSpan": 10,
     "weight": "10"
   },
+  "pointId": "1",
   "apicode": 10000
 }
 
