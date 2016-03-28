@@ -49,3 +49,5 @@
 * | :one:答案验证 | /cour/[checkAnswer](./interface/ola_checkAnswer.md) 
 * | :one:答案验证 | /cour/[getSubjectAnswer](./interface/ola_getSubjectAnswer.md)
 * | :one:答案验证 | /cour/[getSubjectAnswer](./interface/ola_getSubjectHint.md)
+视频 | | | | |
+* | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
