@@ -44,8 +44,8 @@
 考点 | | | | |
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
 * | :one:知识点对应的考点试题 | /cour/[getPoiSubList](./interface/ola_getPoiSubList.md)
-* | :one:知识点详情 | /cour/[getPointDetail](./interface/ola_getPointDetail.md) 
-* | :one:提交测试题的答案 | /cour/[checkAnswer](./interface/ola_checkAnswer.md) 
+* | :one:知识点详情 | /cour/[getPointDetail](./interface/getPointDetail.md) 
+* | :one:提交测试题的答案 | /cour/[checkAnswer](./interface/checkAnswer.md) 
 * | :one:获取试题答案 | /cour/[getSubjectAnswer](./interface/ola_getSubjectAnswer.md)
 * | :one:获取试题提示 | /cour/[getSubjectAnswer](./interface/ola_getSubjectHint.md)
 * | :one:知识点对应的视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md) 
