@@ -43,11 +43,11 @@
 * | :one:上传图片 | /user/[fileUpload](./interface/fileUpload.md)
 考点 | | | | |
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
-* | :one:知识点列表 | /cour/[getPointList](./interface/ola_getPointList.md) 
-* | :one:知识点详细信息 | /cour/[getPointDetail](./interface/ola_getPointDetail.md) 
-* | :one:知识点对应的视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md) 
-* | :one:答案验证 | /cour/[checkAnswer](./interface/ola_checkAnswer.md) 
-* | :one:答案验证 | /cour/[getSubjectAnswer](./interface/ola_getSubjectAnswer.md)
-* | :one:答案验证 | /cour/[getSubjectAnswer](./interface/ola_getSubjectHint.md)
+* | :one:知识点对应的考点试题 | /cour/[getPoiSubList](./interface/ola_getPoiSubList.md)
+* | :one:知识点详情 | /cour/[getPointDetail](./interface/ola_getPointDetail.md) 
+* | :one:提交测试题的答案 | /cour/[checkAnswer](./interface/ola_checkAnswer.md) 
+* | :one:获取试题答案 | /cour/[getSubjectAnswer](./interface/ola_getSubjectAnswer.md)
+* | :one:获取试题提示 | /cour/[getSubjectAnswer](./interface/ola_getSubjectHint.md)
+*  :one:知识点对应的视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md) 
 视频 | | | | |
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
