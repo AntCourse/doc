@@ -51,3 +51,6 @@
 * | :one:知识点对应的视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md) 
 视频 | | | | |
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
+*doing | :one:获取课程视频 | /cour/[getVideoList](./interface/ola_getVideoList.md) 
+模考 | | | | |
+*doing | :one:真题／模考列表 | /cour/[getExamList](./interface/ola_getExamList.md) 
