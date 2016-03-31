@@ -29,7 +29,7 @@
         "profile": "核心词汇",
         "type": "1",
         "address": "http://www.mykepu.com:8080/pic/course/english/1.png",
-        "pointList": [
+        "subList": [
           {
             "accuracy": 0,
             "content": "晨星成长计划",
@@ -255,7 +255,7 @@
         "profile": "阅读",
         "type": "1",
         "address": "http://www.mykepu.com:8080/pic/course/english/9.png",
-        "pointList": []
+        "subList": []
       },
       {
         "courId": 28,
@@ -264,7 +264,7 @@
         "profile": "长难句分析",
         "type": "1",
         "address": "http://www.mykepu.com:8080/pic/course/english/2.png",
-        "pointList": [
+        "subList": [
           {
             "accuracy": 0,
             "content": "长难句分析01",
