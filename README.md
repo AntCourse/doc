@@ -54,5 +54,5 @@
 * | :one:真题／模考对应的试题 | /exam/[getExamSubList](./interface/ola_getExamSubList.md) 
 视频 | | | | |
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
-* | :one:获取课程视频 | /cour/[getVideoByPoi](./interface/getVideoByPoi.md)
+* | :one:获取课程视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md)
 * | :one:获取整套视频或题库 | /goods/[getGoodsList](./interface/getGoodsList.md)
