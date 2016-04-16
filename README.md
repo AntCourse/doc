@@ -49,9 +49,10 @@
 * | :one:获取试题答案 | /cour/[getSubjectAnswer](./interface/ola_getSubjectAnswer.md)
 * | :one:获取试题提示 | /cour/[getSubjectAnswer](./interface/ola_getSubjectHint.md)
 * | :one:知识点对应的视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md) 
-视频 | | | | |
-* | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
-* | :one:获取课程视频 | /cour/[getVideoList](./interface/ola_getVideoList.md) 
 模考 | | | | |
 * | :one:真题／模考列表 | /exam/[getExamList](./interface/ola_getExamList.md) 
-* | :one:真题／模考对应的试题 | /exam/[getExamSubList](./interface/ola_getExamSubList.md) 
+* | :one:真题／模考对应的试题 | /exam/[getExamSubList](./interface/ola_getExamSubList.md) \
+视频 | | | | |
+* | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
+* | :one:获取课程视频 | /cour/[getVideoList](./interface/ola_getVideoList.md)
+* | :one:获取整套视频或题库 | /goods/[getGoodsList](./interface/getGoodsList.md)
