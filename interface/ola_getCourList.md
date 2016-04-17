@@ -18,12 +18,12 @@
   {
   "message": "成功",
   "result": {
-    "courId": 1,
+    "id": 1,
     "name": "数学",
     "profile": "数学",
     "child": [
       {
-        "courId": 47,
+        "id": 47,
         "name": "数学1",
         "pid": "1",
         "type": "2",
@@ -41,7 +41,7 @@
         ]
       },
       {
-        "courId": 51,
+        "id": 51,
         "name": "数学2",
         "pid": "1",
         "type": "2",
@@ -49,7 +49,7 @@
         "subList": []
       },
       {
-        "courId": 52,
+        "id": 52,
         "name": "数学3",
         "pid": "1",
         "type": "2",
