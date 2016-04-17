@@ -20,7 +20,15 @@
 	"result": [{
 		"no": "1",
 		"isRight": "1",
-		"avgAcc": "44%"
+		"avgAcc": "46%"
+	}, {
+		"no": "2",
+		"isRight": "1",
+		"avgAcc": "47%"
+	}, {
+		"no": "3",
+		"isRight": "1",
+		"avgAcc": "48%"
 	}],
 	"apicode": 10000
 }
