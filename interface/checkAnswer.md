@@ -16,38 +16,13 @@
 
 ```javascript
 {
-  "message": "成功",
-  "result": [
-    {
-      "no": "1",
-      "isRight": "1",
-      "avgAcc": "100%",
-      "avgTime": 10,
-      "points": [
-        {
-          "content": "知识点11",
-          "id": 1
-        },
-        {
-          "content": "知识点22",
-          "id": 2
-        },
-        {
-          "content": "知识点33",
-          "id": 3
-        },
-        {
-          "content": "知识点11",
-          "id": 1
-        },
-        {
-          "content": "知识点11",
-          "id": 1
-        }
-      ]
-    }
-  ],
-  "apicode": 10000
+	"message": "成功",
+	"result": [{
+		"no": "1",
+		"isRight": "1",
+		"avgAcc": "44%"
+	}],
+	"apicode": 10000
 }
 
 ```
