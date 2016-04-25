@@ -3,20 +3,20 @@
  相关信息 | 内容
  ------ | ------
  访问类型 | POST
- 访问地址 | /reward/getWXPayReq
+ 访问地址 | /pay/getWXPayReq
 
 ###请求参数
 
  参数名称 | 是否必填 | 类型 | 说明 | 示例数据
  ------ | ------ | ------ | ------ | ------ | ------
  price | 是 | 字符串 | 打赏金额 |
- experGid | 是 | 字符串 | 专家gid |
+ courseId | 否 | 字符串 | courseId |
 
 ###请求示例
 ```javascript
 {
-    "price":"打赏金额"
-   "experGid": "专家gid"
+    "price":"金额"
+   "courseId": "courseId"
 }
 ```
 
