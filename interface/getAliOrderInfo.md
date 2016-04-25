@@ -4,7 +4,7 @@
  相关信息 | 内容
  ------ | ------
  访问类型 | POST
- 访问地址 | /reward/getAliOrderInfo
+ 访问地址 | /pay/getAliOrderInfo
 
 ###请求参数
 
