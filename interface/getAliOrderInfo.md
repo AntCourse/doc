@@ -11,13 +11,13 @@
  参数名称 | 是否必填 | 类型 | 说明 | 示例数据
  ------ | ------ | ------ | ------ | ------ | ------
  price | 是 | 字符串 | 打赏金额 |
- experGid | 是 | 字符串 | 专家gid |
+ courseId | 否 | 字符串 | courseId |
 
 ###请求示例
 ```javascript
 {
-    "price":"打赏金额"
-   "experGid": "专家gid"
+    "price":"金额"
+   "courseId": "courseId"
 }
 ```
 
