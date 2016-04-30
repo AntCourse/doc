@@ -28,31 +28,21 @@
     "child": [
       {
         "address": "http://www.mykepu.com:8080/pic/course/math/1.png",
-        "id": 47,
-        "name": "基础课程",
+        "id": 7,
+        "name": "算数",
         "pid": "1",
-        "profile": "",
-        "subAllNum": 0,
-        "type": "2",
+        "profile": "算数",
+        "subAllNum": 6,
+        "type": "1",
         "child": [
           {
-            "address": "http://www.mykepu.com:8080/pic/course/math/1.png",
-            "id": 54,
-            "name": "数学1-1",
-            "pid": "47",
-            "profile": "数学1-1",
-            "subAllNum": 0,
-            "type": "2",
-            "subNum": 0
-          },
-          {
-            "address": "http://www.mykepu.com:8080/pic/course/math/2.png",
-            "id": 55,
-            "name": "数学1-2",
-            "pid": "47",
-            "profile": "",
-            "subAllNum": 0,
-            "type": "2",
+            "address": "",
+            "id": 53,
+            "name": "算数1-1",
+            "pid": "7",
+            "profile": "算数1-1",
+            "subAllNum": 6,
+            "type": "1",
             "subNum": 0
           }
         ],
@@ -60,46 +50,102 @@
       },
       {
         "address": "http://www.mykepu.com:8080/pic/course/math/2.png",
-        "id": 51,
-        "name": "高级课程",
+        "id": 8,
+        "name": "应用题",
         "pid": "1",
-        "profile": "",
+        "profile": "应用题",
         "subAllNum": 0,
-        "type": "2",
-        "child": [
-          {
-            "address": "http://www.mykepu.com:8080/pic/course/math/3.png",
-            "id": 56,
-            "name": "数学2-1",
-            "pid": "51",
-            "profile": "",
-            "subAllNum": 0,
-            "type": "2",
-            "subNum": 0
-          }
-        ],
+        "type": "1",
         "subNum": 0
       },
       {
         "address": "http://www.mykepu.com:8080/pic/course/math/3.png",
-        "id": 52,
-        "name": "付费课程",
+        "id": 36,
+        "name": "整数",
         "pid": "1",
-        "profile": "",
+        "profile": "整数",
         "subAllNum": 0,
-        "type": "2",
-        "child": [
-          {
-            "address": "http://www.mykepu.com:8080/pic/course/math/4.png",
-            "id": 57,
-            "name": "数学3-1",
-            "pid": "52",
-            "profile": "",
-            "subAllNum": 0,
-            "type": "2",
-            "subNum": 0
-          }
-        ],
+        "type": "1",
+        "subNum": 0
+      },
+      {
+        "address": "http://www.mykepu.com:8080/pic/course/math/4.png",
+        "id": 37,
+        "name": "函数",
+        "pid": "1",
+        "profile": "函数",
+        "subAllNum": 0,
+        "type": "1",
+        "subNum": 0
+      },
+      {
+        "address": "http://www.mykepu.com:8080/pic/course/math/5.png",
+        "id": 38,
+        "name": "方程与不等式",
+        "pid": "1",
+        "profile": "方程与不等式",
+        "subAllNum": 0,
+        "type": "1",
+        "subNum": 0
+      },
+      {
+        "address": "http://www.mykepu.com:8080/pic/course/math/6.png",
+        "id": 39,
+        "name": "数列",
+        "pid": "1",
+        "profile": "数列",
+        "subAllNum": 0,
+        "type": "1",
+        "subNum": 0
+      },
+      {
+        "address": "http://www.mykepu.com:8080/pic/course/math/7.png",
+        "id": 40,
+        "name": "平面几何",
+        "pid": "1",
+        "profile": "平面几何",
+        "subAllNum": 0,
+        "type": "1",
+        "subNum": 0
+      },
+      {
+        "address": "http://www.mykepu.com:8080/pic/course/math/8.png",
+        "id": 41,
+        "name": "立体几何",
+        "pid": "1",
+        "profile": "立体几何",
+        "subAllNum": 0,
+        "type": "1",
+        "subNum": 0
+      },
+      {
+        "address": "http://www.mykepu.com:8080/pic/course/math/9.png",
+        "id": 42,
+        "name": "解析几何",
+        "pid": "1",
+        "profile": "解析几何",
+        "subAllNum": 0,
+        "type": "1",
+        "subNum": 0
+      },
+      {
+        "address": "http://www.mykepu.com:8080/pic/course/math/10.png",
+        "id": 44,
+        "name": "排列组合",
+        "pid": "1",
+        "profile": "排列组合",
+        "subAllNum": 0,
+        "type": "1",
+        "subNum": 0
+      },
+      {
+        "address": "http://www.mykepu.com:8080/pic/course/math/11.png",
+        "id": 45,
+        "name": "概率",
+        "pid": "1",
+        "profile": "概率",
+        "subAllNum": 0,
+        "type": "1",
         "subNum": 0
       }
     ],
