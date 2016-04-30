@@ -15,24 +15,84 @@
 ###返回结果示例
 
 ```javascript
-  {
+
+{
   "message": "成功",
   "result": [
     {
+      "id": 1,
       "cid": 1,
-      "coverpoint": 23,
+      "name": "2016数学真题",
+      "target": 100,
       "degree": 1,
-      "name": "数学模考一",
-      "target": 100
+      "coverpoint": 10,
+      "type": "1"
     },
     {
+      "id": 2,
       "cid": 1,
-      "coverpoint": 23,
+      "name": "2015数学真题",
+      "target": 88,
       "degree": 1,
-      "name": "数学模考二",
-      "target": 100
+      "coverpoint": 23,
+      "type": "1"
+    },
+    {
+      "id": 3,
+      "cid": 1,
+      "name": "2014数学真题",
+      "target": 79,
+      "degree": 1,
+      "coverpoint": 1,
+      "type": "1"
+    },
+    {
+      "id": 4,
+      "cid": 1,
+      "name": "2013数学真题",
+      "target": 98,
+      "degree": 1,
+      "coverpoint": 2,
+      "type": "1"
+    },
+    {
+      "id": 5,
+      "cid": 1,
+      "name": "2012数学真题",
+      "target": 95,
+      "degree": 1,
+      "coverpoint": 3,
+      "type": "1"
+    },
+    {
+      "id": 6,
+      "cid": 1,
+      "name": "2011数学真题",
+      "target": 99,
+      "degree": 1,
+      "coverpoint": 4,
+      "type": "1"
+    },
+    {
+      "id": 7,
+      "cid": 1,
+      "name": "2010数学真题",
+      "target": 100,
+      "degree": 1,
+      "coverpoint": 1,
+      "type": "1"
+    },
+    {
+      "id": 8,
+      "cid": 1,
+      "name": "2009数学真题",
+      "target": 100,
+      "degree": 1,
+      "coverpoint": 1,
+      "type": "1"
     }
   ],
   "apicode": 10000
 }
+
 ```
