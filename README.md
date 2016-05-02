@@ -58,7 +58,7 @@
 * | :one:获取整套视频或题库 | /goods/[getGoodsList](./interface/getGoodsList.md)
 * 欧拉圈| | | | |
 * | :one:视频观看历史列表 | /cour/[getHistoryList](./interface/ola_getHistoryList.md) 
-* 我的
+* 我的| | | | |
 * | :one:知识型谱 | /cour/[getStatisticsList](./interface/getStatisticsList.md) 
 * 支付 | | | | |
 * | :one:微信支付信息 | /pay/[getWXPayReq](./interface/getWXPayReq.md) 
