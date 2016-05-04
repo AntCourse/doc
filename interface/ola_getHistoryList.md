@@ -21,6 +21,7 @@
       "userAvatar": "1452319877991.jpg",
       "videoId": 1,
       "videoName": "古典概率",
+      "courseId": "1",
       "time": "2016-04-28 08:58:45"
     },
     {
@@ -28,6 +29,7 @@
       "userAvatar": "",
       "videoId": 9,
       "videoName": "大纲词汇分析02",
+      "courseId": "1",
       "time": "2016-04-28 08:59:48"
     }
   ],
