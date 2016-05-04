@@ -13,7 +13,8 @@
 
 ###返回结果示例
 
-```javascript{
+```javascript
+{
   "message": "成功",
   "result": [
     {
