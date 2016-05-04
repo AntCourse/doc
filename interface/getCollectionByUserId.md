@@ -22,7 +22,7 @@
       "videoPic": "videoPic",
       "videoUrl": "http://olamath.ufile.ucloud.com.cn/2016yingyong/01_jichu_01.mp4",
       "courseId": 1,
-      "coursePIc": ""
+      "coursePic": ""
     },
     {
       "videoId": 9,
@@ -30,7 +30,7 @@
       "videoPic": "videoPic",
       "videoUrl": "http://olamath.ufile.ucloud.com.cn/2016yingyong/01_jichu_01.mp4",
       "courseId": 2,
-      "coursePIc": ""
+      "coursePic": ""
     }
   ],
   "apicode": 10000
