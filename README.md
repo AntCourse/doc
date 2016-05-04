@@ -55,6 +55,7 @@
 视频 | | | | |
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
 * | :one:获取课程视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md)
+*  :one:收藏／取消收藏视频 | /collection/[collectionVideo](./interface/collectionVideo.md)
 * | :one:获取整套视频或题库 | /goods/[getGoodsList](./interface/getGoodsList.md)
 * 欧拉圈| | | | |
 * | :one:视频观看历史列表 | /cour/[getHistoryList](./interface/ola_getHistoryList.md) 
