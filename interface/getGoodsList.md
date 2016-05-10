@@ -12,7 +12,7 @@
  type | 是 | 字符串 | 1 视频 2 题库
  
 ###返回结果示例
-
+```javascript
 {
   "message": "成功",
   "result": [
