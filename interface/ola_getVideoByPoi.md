@@ -9,54 +9,45 @@
  参数名称 | 是否必填 | 类型 | 说明 | 示例数据
  ------ | ------ | ------ | ------ | ------ | ------
  pointId | 是 | 字符串 | 课程知识点id
+ userId | 否 | 字符串 | userId
  
 ###返回结果示例
 
 ```javascript
 {
   "message": "成功",
-  "result": [
-    {
-      "id": 10,
-      "name": "第一学时：大纲词汇分析03",
-      "content": "大纲词汇分析03",
-      "address": "http://orthoday.ufile.ucloud.com.cn/test/genius_plan.mp4",
-      "playCount": 105,
-      "timeSpan": 0,
-      "weight": null,
-      "orgname": "幂学",
-      "tname": "何敬",
-      "isBanner": 0,
-      "pic": null
-    },
-    {
-      "id": 11,
-      "name": "第二学时：大纲词汇分析04",
-      "content": "大纲词汇分析04",
-      "address": "http://orthoday.ufile.ucloud.com.cn/motion/sc01_1080p.flv",
-      "playCount": 117,
-      "timeSpan": 0,
-      "weight": null,
-      "orgname": "幂学",
-      "tname": "何敬",
-      "isBanner": 0,
-      "pic": null
-    },
-    {
-      "id": 12,
-      "name": "第三学时：大纲词汇分析05",
-      "content": "大纲词汇分析05",
-      "address": "http://orthoday.ufile.ucloud.com.cn/test/genius_plan.mp4",
-      "playCount": 92,
-      "timeSpan": 0,
-      "weight": null,
-      "orgname": "幂学",
-      "tname": "何敬",
-      "isBanner": 0,
-      "pic": null
-    }
-  ],
-  "pointId": "54",
+  "result": {
+    "pointId": "70",
+    "isCollect": "0",
+    "videoList": [
+      {
+        "address": "http://olamath.ufile.ucloud.com.cn/2016chuanjiang/07_jihe.mp4",
+        "content": "",
+        "id": 107,
+        "isBanner": 0,
+        "name": "课时1：几何考点预测及拿分策略Ⅰ",
+        "orgname": "",
+        "pic": "",
+        "playCount": 9,
+        "timeSpan": "0:54:44",
+        "tname": "",
+        "weight": ""
+      },
+      {
+        "address": "http://olamath.ufile.ucloud.com.cn/2016chuanjiang/08_jihe.mp4",
+        "content": "",
+        "id": 108,
+        "isBanner": 0,
+        "name": "课时2：几何考点预测及拿分策略Ⅱ",
+        "orgname": "",
+        "pic": "",
+        "playCount": 5,
+        "timeSpan": "0:30:02",
+        "tname": "",
+        "weight": ""
+      }
+    ]
+  },
   "apicode": 10000
 }
 
