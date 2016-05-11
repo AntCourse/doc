@@ -22,7 +22,7 @@
       "videoUrl": "http://olamath.ufile.ucloud.com.cn/2016suanshu/01_gainian_01.mp4",
       "courseId": 54,
       "coursePic": "http://math.ufile.ucloud.com.cn/basicmath1.jpg",
-      "timeStamp": "2:16:05",
+      "totalTime": "2:16:05",
       "subAllNum": 0
     }
   ],
