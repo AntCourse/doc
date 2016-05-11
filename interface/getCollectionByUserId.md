@@ -17,20 +17,13 @@
   "message": "成功",
   "result": [
     {
-      "videoId": 9,
-      "videoName": "大纲词汇分析02",
-      "videoPic": "videoPic",
-      "videoUrl": "http://olamath.ufile.ucloud.com.cn/2016yingyong/01_jichu_01.mp4",
-      "courseId": 1,
-      "coursePic": ""
-    },
-    {
-      "videoId": 9,
-      "videoName": "大纲词汇分析02",
-      "videoPic": "videoPic",
-      "videoUrl": "http://olamath.ufile.ucloud.com.cn/2016yingyong/01_jichu_01.mp4",
-      "courseId": 2,
-      "coursePic": ""
+      "videoId": 1,
+      "videoName": "课时1：实数的概念",
+      "videoUrl": "http://olamath.ufile.ucloud.com.cn/2016suanshu/01_gainian_01.mp4",
+      "courseId": 54,
+      "coursePic": "http://math.ufile.ucloud.com.cn/basicmath1.jpg",
+      "timeStamp": "2:16:05",
+      "subAllNum": 0
     }
   ],
   "apicode": 10000
