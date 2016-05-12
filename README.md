@@ -53,6 +53,7 @@
 * | :one:真题／模考列表 | /exam/[getExamList](./interface/ola_getExamList.md) 
 * | :one:真题／模考对应的试题 | /exam/[getExamSubList](./interface/ola_getExamSubList.md) 
 视频 | | | | |
+* | :one:banner页面 | /cour/[getBannerList](./interface/getBannerList.md) 
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
 * | :one:获取课程视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md)
 * | :one:收藏／取消收藏视频 | /collection/[collectionVideo](./interface/collectionVideo.md)
