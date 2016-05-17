@@ -31,7 +31,8 @@
         "playCount": 9,
         "timeSpan": "0:54:44",
         "tname": "",
-        "weight": ""
+        "weight": "",
+        "isfree":0   // 需开通会员
       },
       {
         "address": "http://olamath.ufile.ucloud.com.cn/2016chuanjiang/08_jihe.mp4",
@@ -44,7 +45,8 @@
         "playCount": 5,
         "timeSpan": "0:30:02",
         "tname": "",
-        "weight": ""
+        "weight": "",
+        "isfree":1  //可观看
       }
     ]
   },
