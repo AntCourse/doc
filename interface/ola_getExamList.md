@@ -21,76 +21,84 @@
   "message": "成功",
   "result": [
     {
-      "id": 1,
       "cid": 1,
-      "name": "2016数学真题",
-      "target": 100,
-      "degree": 1,
-      "coverpoint": 10,
-      "type": "1"
-    },
-    {
-      "id": 2,
-      "cid": 1,
-      "name": "2015数学真题",
-      "target": 88,
-      "degree": 1,
-      "coverpoint": 23,
-      "type": "1"
-    },
-    {
-      "id": 3,
-      "cid": 1,
-      "name": "2014数学真题",
-      "target": 79,
-      "degree": 1,
-      "coverpoint": 1,
-      "type": "1"
-    },
-    {
-      "id": 4,
-      "cid": 1,
-      "name": "2013数学真题",
-      "target": 98,
-      "degree": 1,
-      "coverpoint": 2,
-      "type": "1"
-    },
-    {
-      "id": 5,
-      "cid": 1,
-      "name": "2012数学真题",
-      "target": 95,
-      "degree": 1,
-      "coverpoint": 3,
-      "type": "1"
-    },
-    {
-      "id": 6,
-      "cid": 1,
-      "name": "2011数学真题",
-      "target": 99,
-      "degree": 1,
       "coverpoint": 4,
-      "type": "1"
+      "degree": 5,
+      "id": 9,
+      "name": "模考试题一",
+      "target": 89,
+      "type": "1",
+      "rank": "123"
     },
     {
-      "id": 7,
       "cid": 1,
-      "name": "2010数学真题",
-      "target": 100,
-      "degree": 1,
-      "coverpoint": 1,
-      "type": "1"
+      "coverpoint": 6,
+      "degree": 5,
+      "id": 10,
+      "name": "模考试题二",
+      "target": 11,
+      "type": "1",
+      "rank": "123"
     },
     {
-      "id": 8,
       "cid": 1,
-      "name": "2009数学真题",
-      "target": 100,
+      "coverpoint": 7,
+      "degree": 7,
+      "id": 11,
+      "name": "模考试题三",
+      "target": 22,
+      "type": "1",
+      "rank": "123"
+    },
+    {
+      "cid": 1,
+      "coverpoint": 8,
+      "degree": 4,
+      "id": 12,
+      "name": "模考试题四",
+      "target": 33,
+      "type": "1",
+      "rank": "123"
+    },
+    {
+      "cid": 1,
+      "coverpoint": 9,
+      "degree": 26,
+      "id": 13,
+      "name": "模考试题五",
+      "target": 44,
+      "type": "1",
+      "rank": "123"
+    },
+    {
+      "cid": 1,
+      "coverpoint": 6,
+      "degree": 7,
+      "id": 14,
+      "name": "模考试题六",
+      "target": 55,
+      "type": "1",
+      "rank": "123"
+    },
+    {
+      "cid": 1,
+      "coverpoint": 5,
+      "degree": 4,
+      "id": 15,
+      "name": "模考试题七",
+      "target": 66,
+      "type": "1",
+      "rank": "123"
+    },
+    {
+      "cid": 1,
+      "coverpoint": 10,
       "degree": 1,
-      "coverpoint": 1,
-      "type": "1"
+      "id": 16,
+      "name": "模考试题八",
+      "target": 77,
+      "type": "1",
+      "rank": "123"
     }
   ],
   "apicode": 10000
