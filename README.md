@@ -63,6 +63,7 @@
 * | :one:视频观看历史列表 | /cour/[getHistoryList](./interface/ola_getHistoryList.md) 
 * 我的| | | | |
 * | :one:知识型谱 | /cour/[getStatisticsList](./interface/getStatisticsList.md) 
+* | :one:错题集 | /cour/[getWrongSubSet](./interface/getWrongSubSet.md) 
 * | :one:视频收藏列表 | /collection/[getCollectionByUserId](./interface/getCollectionByUserId.md) 
 * 支付 | | | | |
 * | :one:微信支付信息 | /pay/[getWXPayReq](./interface/getWXPayReq.md) 
