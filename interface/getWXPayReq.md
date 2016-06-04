@@ -9,16 +9,9 @@
 
  参数名称 | 是否必填 | 类型 | 说明 | 示例数据
  ------ | ------ | ------ | ------ | ------ | ------
- price | 是 | 字符串 | 打赏金额 |
- courseId | 否 | 字符串 | courseId |
-
-###请求示例
-```javascript
-{
-    "price":"金额"
-   "courseId": "courseId"
-}
-```
+ type | 是 | 字符串 | 1 月度会员 2 年度会员 3 视频
+ goodsId | 否 | 字符串 | goodsId |
+ userId | 否 | 字符串 | userId |
 
 ###返回结果示例
 
