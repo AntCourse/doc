@@ -62,7 +62,9 @@
 * | :one:获取整套视频下的视频列表 | /goods/[getVideoList](./interface/getVideoList.md)
 * | :one:获取整套视频购买状态 | /goods/[getOrderStatus](./interface/getOrderStatus.md)
 * 欧拉圈| | | | |
-* | :one:视频观看历史列表 | /cour/[getHistoryList](./interface/ola_getHistoryList.md) 
+* | :one:(旧版本)视频观看历史列表 | /cour/[getHistoryList](./interface/ola_getHistoryList.md) 
+* | :one:欧拉圈发帖 | /circle/[addOlaCircle](./interface/oaddOlaCircle.md)
+* | :one:欧拉圈列表 | /circle/[getCircleList](./interface/getCircleList.md)
 * 我的| | | | |
 * | :one:知识型谱 | /cour/[getStatisticsList](./interface/getStatisticsList.md) 
 * | :one:错题集 | /cour/[getWrongSubSet](./interface/getWrongSubSet.md) 
