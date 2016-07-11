@@ -19,8 +19,10 @@
     "result": [
         {
             "commentId": 1,
+            "userId": 381,
             "userName": "小欧4738",
             "userAvatar": "664c3a2d-8ddd-4acc-a0c3-5382f625cbb5",
+            "toUserId": "382",
             "toUserName": "小欧0992",
             "content": "回复",
             "praiseNumber": 10,
