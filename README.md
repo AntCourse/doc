@@ -66,7 +66,7 @@
 * | :one:上传图片 | http://upload/olaxueyuan.com/SDpic/common/[picUpload](./interface/picUpload.md)
 * | :one:欧拉圈发帖 | /circle/[addOlaCircle](./interface/addOlaCircle.md)
 * | :one:欧拉圈列表 | /circle/[getCircleList](./interface/getCircleList.md)
-* | :one:评论列表 | /comment/[addComment](./interface/addComment.md)
+* | :one:添加评论 | /comment/[addComment](./interface/addComment.md)
 * | :one:评论列表 | /comment/[getCommentList](./interface/getCommentList.md)
 * 我的| | | | |
 * | :one:知识型谱 | /cour/[getStatisticsList](./interface/getStatisticsList.md) 
