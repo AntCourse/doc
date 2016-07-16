@@ -27,6 +27,8 @@
         "type": 2,
         "userId": 382,
         "videoId": 0,
+        "userName": "小欧0992",
+        "userAvatar": "1466843757205.jpg",
         "time": "2016-07-15 14:21:03",
         "commentList": [
             {
