@@ -19,20 +19,34 @@
     "message": "成功",
     "result": [
         {
-            "id": 3,
-            "content": "消息3",
-            "otherId": 2,
-            "type": 3,
+            "content": "消息1",
+            "id": 1,
+            "otherId": 0,
             "status": 0,
-            "createTime": ""
+            "title": "消息",
+            "type": 1,
+            "time": "2016-07-18 11:00:52",
+            "imageUrl": "1466843757205.jpg"
         },
         {
-            "id": 2,
+            "content": "消息3",
+            "id": 3,
+            "otherId": 188,
+            "status": 1,
+            "title": "消息",
+            "type": 3,
+            "time": "2016-07-15 11:01:24",
+            "imageUrl": "http://banner.ufile.ucloud.com.cn/banner4.jpg"
+        },
+        {
             "content": "消息2",
-            "otherId": 1,
+            "id": 2,
+            "otherId": 54,
+            "status": 1,
+            "title": "消息",
             "type": 2,
-            "status": 0,
-            "createTime": ""
+            "time": "2016-07-12 11:01:09",
+            "imageUrl": "http://math.ufile.ucloud.com.cn/basicmath1.jpg"
         }
     ],
     "apicode": 10000
