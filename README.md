@@ -41,6 +41,8 @@
 * | :one:修改密码 | /user/[modifypasswd](./interface/modifypasswd.md) 
 * | :one:用户签到 | /user/[userSignIn](./interface/userSignIn.md) 
 * | :one:上传图片 | /user/[fileUpload](./interface/fileUpload.md)
+消息 | | | | |
+* | :one:消息列表 | /message/[getMessageList](./interface/getMessageList.md) 
 考点 | | | | |
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
 * | :one:知识点对应的考点试题 | /cour/[getPoiSubList](./interface/ola_getPoiSubList.md)
