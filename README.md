@@ -42,6 +42,7 @@
 * | :one:用户签到 | /user/[userSignIn](./interface/userSignIn.md) 
 * | :one:上传图片 | /user/[fileUpload](./interface/fileUpload.md)
 消息 | | | | |
+* | :one:友盟推送 | [推送格式](./interface/umeng_push.md)
 * | :one:未读消息数 | /message/[getUnreadCount](./interface/getUnreadCount.md)
 * | :one:消息列表 | /message/[getMessageList](./interface/getMessageList.md) 
 * | :one:标记为已读 | /message/[addMessageRecord](./interface/addMessageRecord.md)
