@@ -27,6 +27,16 @@
     "subAllNum": 6,
     "totalTime": "",
     "type": "1",
+    "homework": {
+            "avatar": "664c3a2d-8ddd-4acc-a0c3-5382f625cbb5",
+            "groupId": "1",
+            "groupName": "欧拉学习群",
+            "id": 1,
+            "name": "每周一练",
+            "userName": "小欧4738",
+            "count": 2,
+            "time": "2016-08-02 17:50"
+        },
     "child": [
       {
         "address": "http://www.mykepu.com:8080/pic/course/math/1.png",
