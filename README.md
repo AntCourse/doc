@@ -57,6 +57,7 @@
 * | :one:获取试题提示 | /cour/[getSubjectAnswer](./interface/ola_getSubjectHint.md)
 * | :one:知识点对应的视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md) 
 作业 | | | | |
+* | :one:用户群列表 | /homework/[getUserGroupList](./interface/getUserGroupList.md) 
 * | :one:作业列表 | /homework/[getHomeworkList](./interface/getHomeworkList.md) 
 * | :one:题目列表 | /homework/[getSubjectList](./interface/getSubjectList.md) 
 模考 | | | | |
