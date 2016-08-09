@@ -35,6 +35,7 @@
             "name": "每周一练",
             "userName": "小欧4738",
             "count": 2,
+            "finishedCount": 2,
             "time": "2016-08-02 17:50"
         },
     "child": [
