@@ -22,6 +22,7 @@
             "id": 1,
             "name": "每周一练",
             "count": "10",
+            "finishedCount": 2,
             "userName": "小欧4738",
             "avatar": "664c3a2d-8ddd-4acc-a0c3-5382f625cbb5",
             "groupId": "1",
