@@ -41,6 +41,8 @@
 * | :one:修改密码 | /user/[modifypasswd](./interface/modifypasswd.md) 
 * | :one:用户签到 | /user/[userSignIn](./interface/userSignIn.md) 
 * | :one:上传图片 | /user/[fileUpload](./interface/fileUpload.md)
+首页 | | | | |
+* | :one:首页列表 | /home/[getHomeList](./interface/getHomeList.md)
 直播 | | | | |
 * | :one:直播 | /broadcast/[getBroadcastList](./interface/getBroadcastList.md)
 消息 | | | | |
