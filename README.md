@@ -59,6 +59,7 @@
 * | :one:获取试题提示 | /cour/[getSubjectAnswer](./interface/ola_getSubjectHint.md)
 * | :one:知识点对应的视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md) 
 作业 | | | | |
+* | :one:创建群 | /homework/[createGroup](./interface/createGroup.md)
 * | :one:老师创建的群列表 | /homework/[getTeacherGroupList](./interface/getTeacherGroupList.md) 
 * | :one:学生加入的群列表 | /homework/[getUserGroupList](./interface/getUserGroupList.md) 
 * | :one:作业列表 | /homework/[getHomeworkList](./interface/getHomeworkList.md) 
