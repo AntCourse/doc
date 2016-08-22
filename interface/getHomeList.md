@@ -33,6 +33,41 @@
                 "url": ""
             }
         ],
+        "questionList": [
+            {
+                "id": 5,
+                "title": "56",
+                "content": "sdf",
+                "number": 2,
+                "time": {
+                    "date": 6,
+                    "day": 3,
+                    "hours": 9,
+                    "minutes": 12,
+                    "month": 6,
+                    "seconds": 0,
+                    "time": 1467767520000,
+                    "timezoneOffset": -480,
+                    "year": 116
+                }
+            },
+            {
+                "id": 4,
+                "content": "56",
+                "number": 1,
+                "time": {
+                    "date": 5,
+                    "day": 2,
+                    "hours": 17,
+                    "minutes": 51,
+                    "month": 6,
+                    "seconds": 45,
+                    "time": 1467712305000,
+                    "timezoneOffset": -480,
+                    "year": 116
+                }
+            }
+        ],
         "goodsList": [
             {
                 "attentionnum": 100,
@@ -67,30 +102,6 @@
                 "type": "1",
                 "url": "http://commodity.ufile.ucloud.com.cn/math.jpg",
                 "videonum": 24
-            }
-        ],
-        "orgList": [
-            {
-                "address": "http://www.mykepu.com:8080/pic/organization/1.jpg",
-                "attendCount": 950,
-                "checkinCount": 39,
-                "id": 1,
-                "logo": "http://commodity.ufile.ucloud.com.cn/logo1.jpg",
-                "name": "2017年幂学系统班",
-                "org": "由幂学教育提供",
-                "profile": "",
-                "type": 1
-            },
-            {
-                "address": "http://www.mykepu.com:8080/pic/organization/2.jpg",
-                "attendCount": 458,
-                "checkinCount": 27,
-                "id": 2,
-                "logo": "http://commodity.ufile.ucloud.com.cn/logo1.jpg",
-                "name": "2017年幂学私塾班",
-                "org": "由幂学教育提供",
-                "profile": "",
-                "type": 1
             }
         ]
     },
