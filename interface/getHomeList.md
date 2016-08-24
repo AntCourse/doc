@@ -39,33 +39,13 @@
                 "title": "56",
                 "content": "sdf",
                 "number": 2,
-                "time": {
-                    "date": 6,
-                    "day": 3,
-                    "hours": 9,
-                    "minutes": 12,
-                    "month": 6,
-                    "seconds": 0,
-                    "time": 1467767520000,
-                    "timezoneOffset": -480,
-                    "year": 116
-                }
+                "time": ""
             },
             {
                 "id": 4,
                 "content": "56",
                 "number": 1,
-                "time": {
-                    "date": 5,
-                    "day": 2,
-                    "hours": 17,
-                    "minutes": 51,
-                    "month": 6,
-                    "seconds": 45,
-                    "time": 1467712305000,
-                    "timezoneOffset": -480,
-                    "year": 116
-                }
+                "time": ""
             }
         ],
         "goodsList": [
